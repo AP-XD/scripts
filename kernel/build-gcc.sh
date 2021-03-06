@@ -8,7 +8,7 @@
 
 git clone https://github.com/arter97/arm64-gcc --depth=1
 git clone https://github.com/arter97/arm32-gcc --depth=1
-git clone https://github.com/iamsaalim/AnyKernel3
+git clone https://github.com/AP-XD/AnyKernel3
 
 export USE_CCACHE=1
 ZIPNAME=
